@@ -9,7 +9,7 @@
 
 #### Map
 
-![/img/map.png]()
+[a relative link](img/map.png)
 
 #### Data Source
 
