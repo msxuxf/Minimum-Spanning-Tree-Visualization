@@ -9,7 +9,7 @@
 
 #### Map
 
-[a relative link](img/map.png)
+![alt text](https://github.com/msxuxf/Minimum-Spanning-Tree-Visualization/blob/main/img/MST_US.png)
 
 #### Data Source
 
